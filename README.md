@@ -8,4 +8,4 @@
 #### Linux Shell Commands
 
 |  Command | Explanation  |
-|  Command | Explanation  |
+
